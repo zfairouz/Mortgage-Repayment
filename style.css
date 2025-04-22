@@ -19,6 +19,14 @@
     --Slate-900: hsl(202, 55%, 16%);
 }
 
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
 html {
     line-height: 1.5;
     font-family: 'Plus Jakarta Sans', sans-serif;
